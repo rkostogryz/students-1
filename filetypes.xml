@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="dockerfile" type="Dockerfile" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="jenkinsfile" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
